@@ -1,1 +1,3 @@
-# carlsen-no
+# carlsen.no
+
+Simple landing page for carlsen.no
